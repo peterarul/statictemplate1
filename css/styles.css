@@ -1,0 +1,35 @@
+#title {
+  color:forestgreen; 
+  font-size: 50px;
+}
+.about {
+    text-align: justify;
+    font-size: 20px;
+}
+body {
+   background-color: #efefef;
+}
+#img1 {
+    padding: 20px; 
+    width: 400px;
+    height: 300px;
+}
+#img2 {
+   padding: 20px; 
+   width: 400px;
+   height: 300px;
+}
+.contact{
+    font-size: 20px
+}
+.img-fluid{
+    width: 100%;
+}
+.what_you_get {
+    text-align: left;
+}
+ul {
+    list-style: none;
+    text-align: left;
+    
+}
